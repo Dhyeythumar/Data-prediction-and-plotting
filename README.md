@@ -53,6 +53,7 @@ The python modules/libraries required to run this code on **Windows Machine**:
 **Activate the virtualenv**
 > $ source ~/.virtualenvs/plotly2.7/bin/activate <br />
 > (plotly2.7) $ <br />
+
 **Install plotly locally to virtualenv**
 > $ (plotly2.7) $ pip install plotly==3.3 <br />
 
@@ -67,3 +68,6 @@ The python modules/libraries required to run this code on **Windows Machine**:
 > python data_prediction.py <br />
 
 The project is running :smiley: <br />
+
+## License
+This project is licensed under the GNU GPLv3 - see the LICENSE.md file for details.
