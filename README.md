@@ -38,14 +38,27 @@ By the above mentioned approach, the third-semester pointers are calculated and 
 |---> setup.py </pre>
 
 ### Prerequisites
-The python modules/libraries required to run this code on **Windows Machine**.
+The python modules/libraries required to run this code on **Windows Machine**:
 
 > pip install xlrd <br />
 > pip install collections <br />
 > pip install plotly <br />
 
+<br /> Or Install Plotly in Virtual Environment by the following instructions:<br />
+**Create your virtualenv**
+> $ mkdir ~/.virtualenvs <br />
+> $ cd ~/.virtualenvs <br />
+> $ python -m venv plotly3.3 <br />
+**Activate the virtualenv**
+> $ source ~/.virtualenvs/plotly2.7/bin/activate <br />
+> (plotly2.7) $ <br />
+**Install plotly locally to virtualenv**
+> $ (plotly2.7) $ pip install plotly==3.3 <br />
+**Deactivate to exit**
+> $ (plotly2.7) $ deactivate <br />
+> $ <br />
 
-### Installing
+## Getting Started
 
 > git clone https://github.com/Dhyeythumar/Data-prediction-and-plotting.git <br />
 > cd data_prediction&plotting <br />
