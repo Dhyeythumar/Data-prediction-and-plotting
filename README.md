@@ -45,8 +45,10 @@ To create a build file you need to install cx_Freeze. <br />
 > cd data_prediction&plotting <br />
 > python setup.py build <br />
 
+Successfully created a build file :package:
+
 ## License
 
 This project is licensed under the GNU GPLv3 - see the [LICENSE](/LICENSE) file for details.<br />
 <br/>
-- To see the [Details](/data_prediction&plotting/README.md) about the project.
+- To see the [More Details](/data_prediction&plotting/README.md) on project.
