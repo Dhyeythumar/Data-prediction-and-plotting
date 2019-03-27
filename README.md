@@ -17,20 +17,21 @@ On x-axis pointers are plotted and on y-axis difference between the pointers are
 By the above mentioned approach, the third-semester pointers are calculated and potted. There are two ways to find the third value by adding or subtracting  the difference to the second value so here one assumption is taken that if the second value and first value lies in the same range of integer (i.e avoiding precisions) then the third value can the more stable and can lie in the same integer range and if they do not satisfy the above condition then their third value will may no lie in same range of integer.  All the 3D and 2D graphs are plotted in Web Browser by using Plotly module for python and it uses WebGL to display all the graphs.
 
 ### File Structure
-| <br />
-|---> __init__.py <br />
-|---> data_analysis.py <br />
-|        | <br />
-|        |---> test1_data.pickle <br />
-|        |---> test2_data.pickle <br />
-| <br />
-|---> data_plotter.py <br />
-|---> data_prediction.py <br />
-|       | <br />
-|       |---> test3_data.pickle <br />
-| <br />
-|---> list_formation.py <br />
-|       | <br />
-|       |---> data_list.pickle <br />
-| <br />
-|---> setup.py <br />
+<pre>
+|
+|---> __init__.py
+|---> data_analysis.py
+|        |
+|        |---> test1_data.pickle
+|        |---> test2_data.pickle
+|
+|---> data_plotter.py
+|---> data_prediction.py
+|       |
+|       |---> test3_data.pickle
+|
+|---> list_formation.py
+|       |
+|       |---> data_list.pickle
+|
+|---> setup.py </pre>
