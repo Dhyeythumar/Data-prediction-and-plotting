@@ -8,4 +8,4 @@ The objective for this topic is to predict the third-semester pointers on the ba
 2. So dropping the above idea, another approach is taken into consideration in this case it is assumed that the pointers will increase in a rectangular hyperbole fashion so as the distance between the pointers will follow the same trend but this theory ruled out because on plotting the rectangular hyperbole and the line joining the two pointers, intersect only at two points (i.e both line and rectangular hyperbole are almost parallel).
 
 On x-axis pointers are plotted and on y-axis difference between the pointers are plotted.
-![Graph Image]
+![Graph Image](https://github.com/Dhyeythumar/Data-prediction-and-plotting/blob/master/documents/graph.png?raw=true)
