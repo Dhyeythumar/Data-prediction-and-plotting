@@ -9,6 +9,6 @@ The objective for this topic is to predict the third-semester pointers on the ba
 
 On x-axis pointers are plotted and on y-axis difference between the pointers are plotted.
 ![Graph Image](https://github.com/Dhyeythumar/Data-prediction-and-plotting/blob/master/documents/graph.png?raw=true)
-* *As we can see in the graph, line and rectangular hyperbola are almost parallel except two points which are values of pointer values of first and second semester.
+*As we can see in the graph, line and rectangular hyperbola are almost parallel except two points which are values of pointer values of first and second semester.*
 
 
