@@ -13,3 +13,24 @@ On x-axis pointers are plotted and on y-axis difference between the pointers are
 
 - The other approach to this problem is that pointers will increases or decreases in an exponential fashion i.e same as the rectangular hyperbole graph. This graph is used again because it closely resembles the behavior of the pointers i.e the difference between the pointers decreases as it approaches 10 and same happens but in reverse order when the pointer goes away from 10 i.e difference increases.  The equation [difference =e^2.1/2*current_pointer] is used here, by this base value is calculated for each student by taking 2.1 as general value (a starting value) and then replacing that with a base value for the further calculation. But this base value is not that much accurate enough, as it is calculate on the bases of two values so not enough data to study the nature of base value but can be used to predict the third value. Error function can be made by taking the standard deviation between of calculated base value and the actual value. One more barrier here is the approximations or precision which propagates, and error value increases.
 
+### Implementation
+By the above mentioned approach, the third-semester pointers are calculated and potted. There are two ways to find the third value by adding or subtracting  the difference to the second value so here one assumption is taken that if the second value and first value lies in the same range of integer (i.e avoiding precisions) then the third value can the more stable and can lie in the same integer range and if they do not satisfy the above condition then their third value will may no lie in same range of integer.  All the 3D and 2D graphs are plotted in Web Browser by using Plotly module for python and it uses WebGL to display all the graphs.
+
+### File Structure
+|
+|---> __init__.py
+|---> data_analysis.py
+|        |
+|        |---> test1_data.pickle
+|        |---> test2_data.pickle
+|
+|---> data_plotter.py
+|---> data_prediction.py
+|       |
+|       |---> test3_data.pickle
+|
+|---> list_formation.py
+|       |
+|       |---> data_list.pickle
+|
+|---> setup.py
