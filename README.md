@@ -36,10 +36,10 @@ By the above mentioned approach, the third-semester pointers are calculated and 
 |
 |---> setup.py </pre>
 
-## Prerequisites
+### Prerequisites
 The python modules/libraries required to run this code on **Windows Machine**.
-'''
+<pre>
 pip install xlrd
 pip install collections
 pip install plotly
-'''
+</pre>
