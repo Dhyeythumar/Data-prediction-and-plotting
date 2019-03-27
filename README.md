@@ -47,7 +47,8 @@ The python modules/libraries required to run this code on **Windows Machine**.
 
 ### Installing
 
-> git clone https://github.com/Dhyeythumar/Data-prediction-and-plotting.git
-> cd data_prediction&plotting
-> python data_prediction.py
-The project is running :smile:
+> git clone https://github.com/Dhyeythumar/Data-prediction-and-plotting.git <br />
+> cd data_prediction&plotting <br />
+> python data_prediction.py <br />
+
+The project is running :smile: <br />
