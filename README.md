@@ -45,16 +45,18 @@ The python modules/libraries required to run this code on **Windows Machine**:
 > pip install plotly <br />
 
 <br /> Or Install Plotly in Virtual Environment by the following instructions:<br />
-**Create your virtualenv** <br />
+**Create your virtualenv**
 > $ mkdir ~/.virtualenvs <br />
 > $ cd ~/.virtualenvs <br />
 > $ python -m venv plotly3.3 <br />
-**Activate the virtualenv** <br />
+
+**Activate the virtualenv**
 > $ source ~/.virtualenvs/plotly2.7/bin/activate <br />
 > (plotly2.7) $ <br />
-**Install plotly locally to virtualenv** <br />
+**Install plotly locally to virtualenv**
 > $ (plotly2.7) $ pip install plotly==3.3 <br />
-**Deactivate to exit** <br />
+
+**Deactivate to exit**
 > $ (plotly2.7) $ deactivate <br />
 > $ <br />
 
