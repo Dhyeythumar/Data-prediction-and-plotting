@@ -38,8 +38,8 @@ By the above mentioned approach, the third-semester pointers are calculated and 
 
 ### Prerequisites
 The python modules/libraries required to run this code on **Windows Machine**.
-<pre>
+**<pre>
 pip install xlrd
 pip install collections
 pip install plotly
-</pre>
+</pre>**
