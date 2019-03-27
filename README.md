@@ -39,14 +39,15 @@ By the above mentioned approach, the third-semester pointers are calculated and 
 
 ### Prerequisites
 The python modules/libraries required to run this code on **Windows Machine**.
-**<pre>
-pip install xlrd
-pip install collections
-pip install plotly
-</pre>**
+
+> pip install xlrd
+> pip install collections
+> pip install plotly
+
 
 ### Installing
-**<pre>
-git clone  
-cd data_prediction&plotting
-</pre>**
+
+> git clone https://github.com/Dhyeythumar/Data-prediction-and-plotting.git
+> cd data_prediction&plotting
+> python data_prediction.py
+The project is running :smile:
