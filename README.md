@@ -40,9 +40,9 @@ By the above mentioned approach, the third-semester pointers are calculated and 
 ### Prerequisites
 The python modules/libraries required to run this code on **Windows Machine**.
 
-> pip install xlrd
-> pip install collections
-> pip install plotly
+> pip install xlrd <br />
+> pip install collections <br />
+> pip install plotly <br />
 
 
 ### Installing
@@ -51,4 +51,4 @@ The python modules/libraries required to run this code on **Windows Machine**.
 > cd data_prediction&plotting <br />
 > python data_prediction.py <br />
 
-The project is running :smile: <br />
+The project is running :smiley: <br />
