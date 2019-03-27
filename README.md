@@ -47,4 +47,6 @@ pip install plotly
 
 ### Installing
 **<pre>
+git clone  
+cd data_prediction&plotting
 </pre>**
