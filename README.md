@@ -38,15 +38,15 @@ The project is running :smiley: <br />
 ## Create an .exe file
 
 To create a build file you need to install cx_Freeze. <br />
-**To install cx_Freeze**
+**Install cx_Freeze**
 > pip install cx_Freeze <br />
 
-**To create build file**
+**Create build file**
 > cd data_prediction&plotting <br />
 > python setup.py build <br />
 
 ## License
 
 This project is licensed under the GNU GPLv3 - see the [LICENSE](/LICENSE) file for details.<br />
-
+<br/>
 - To see the [Details](/data_prediction&plotting/README.md) about the project.
