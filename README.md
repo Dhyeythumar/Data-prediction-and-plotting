@@ -8,7 +8,7 @@ The python modules/libraries required to run this code on **Windows Machine**:
 > pip install collections <br />
 > pip install plotly <br />
 
-<br /> Or Install Plotly in Virtual Environment by the following instructions:<br />
+Or Install Plotly in Virtual Environment by the following instructions:<br />
 **Create your virtualenv**
 > $ mkdir ~/.virtualenvs <br />
 > $ cd ~/.virtualenvs <br />
@@ -34,4 +34,4 @@ The python modules/libraries required to run this code on **Windows Machine**:
 The project is running :smiley: <br />
 
 ## License
-This project is licensed under the GNU GPLv3 - see the LICENSE file for details.
+This project is licensed under the GNU GPLv3 - see the [LICENSE](Data-prediction-and-plotting/LICENSE) file for details.
