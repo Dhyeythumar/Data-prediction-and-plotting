@@ -34,4 +34,5 @@ Or Install Plotly in Virtual Environment by the following instructions:<br />
 The project is running :smiley: <br />
 
 ## License
-This project is licensed under the GNU GPLv3 - see the [LICENSE](/LICENSE) file for details.
+This project is licensed under the GNU GPLv3 - see the [LICENSE](/LICENSE) file for details.<br />
+To see the [Details](/data_prediction&plotting/README.md) about the project.
