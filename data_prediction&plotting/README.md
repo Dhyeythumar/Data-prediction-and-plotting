@@ -35,7 +35,8 @@ By the above mentioned approach, the third-semester pointers are calculated and 
 |---> setup.py </pre>
 
 #### Future Scope
-The error function can be made to find the percentage difference/error between the actual value and calculated value and the method should dynamically adapt the change or try to minimize the error values for more accurate results.
+- The 'Error Function' is to be made to find the percentage difference/error between the actual value and calculated(predicted) value and the method should dynamically adapt the change or try to minimize the error values for more accurate results.
+- And the program should be more modular to the file structure i.e if any excel data sheet is added then there should not be any need to modify the code to handle that extra amount of data.
 
 #### Output
 See the output [here](https://github.com/Dhyeythumar/Data-prediction-and-plotting/blob/master/data_prediction&plotting/OUTPUT.md)
