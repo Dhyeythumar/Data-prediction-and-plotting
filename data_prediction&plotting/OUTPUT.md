@@ -1,4 +1,4 @@
-## Output
+# Output
 
 All the options provided in the program are :-
 ![Graph Image](https://github.com/Dhyeythumar/Data-prediction-and-plotting/blob/master/documents/1.png?raw=true)
