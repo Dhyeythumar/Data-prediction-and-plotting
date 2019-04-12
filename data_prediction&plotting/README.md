@@ -33,3 +33,6 @@ By the above mentioned approach, the third-semester pointers are calculated and 
 |       |---> data_list.pickle
 |
 |---> setup.py </pre>
+
+#### Output
+See the output [here]()
