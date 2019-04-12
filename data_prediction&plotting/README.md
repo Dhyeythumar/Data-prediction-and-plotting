@@ -35,4 +35,4 @@ By the above mentioned approach, the third-semester pointers are calculated and 
 |---> setup.py </pre>
 
 #### Output
-See the output [here]()
+See the output [here](https://github.com/Dhyeythumar/Data-prediction-and-plotting/edit/master/data_prediction&plotting/OUTPUT.md)
