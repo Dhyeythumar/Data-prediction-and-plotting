@@ -27,18 +27,18 @@ $ source ~/.virtualenvs/plotly2.7/bin/activate
 ```
 **Install plotly locally to virtualenv**
 ```bash
-$ (plotly2.7) $ pip install plotly==3.3
+(plotly2.7) $ pip install plotly==3.3
 ```
 **Deactivate to exit**
 ```bash
-$ (plotly2.7) $ deactivate
+(plotly2.7) $ deactivate
 $ 
 ```
 ## Getting Started
 ```bash
 $ git clone https://github.com/Dhyeythumar/Data-prediction-and-plotting.git
 $ cd data_prediction&plotting
-/data_prediction&plotting $ python data_prediction.py
+$ python data_prediction.py
 ```
 The project is running :smiley: <br />
 
