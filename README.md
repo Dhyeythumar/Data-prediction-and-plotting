@@ -6,45 +6,53 @@ The objective for this topic is to predict the third-semester pointers on the ba
 
 The python modules/libraries required to run this code on **Windows Machine**:
 
-> pip install xlrd <br />
-> pip install collections <br />
-> pip install plotly <br />
+```bash
+pip install xlrd
+pip install collections
+pip install plotly
+```
 
 Or Install Plotly in Virtual Environment by the following instructions<br />
 **Create your virtualenv**
-> $ mkdir ~/.virtualenvs <br />
-> $ cd ~/.virtualenvs <br />
-> $ python -m venv plotly3.3 <br />
-
+```bash
+$ mkdir ~/.virtualenvs
+$ cd ~/.virtualenvs
+$ python -m venv plotly3.3
+```
 **Activate the virtualenv**
-> $ source ~/.virtualenvs/plotly2.7/bin/activate <br />
-> (plotly2.7) $ <br />
-
+```bash
+$ source ~/.virtualenvs/plotly2.7/bin/activate
+(plotly2.7) $
+```
 **Install plotly locally to virtualenv**
-> $ (plotly2.7) $ pip install plotly==3.3 <br />
-
+```bash
+$ (plotly2.7) $ pip install plotly==3.3
+```
 **Deactivate to exit**
-> $ (plotly2.7) $ deactivate <br />
-> $ <br />
-
+```bash
+$ (plotly2.7) $ deactivate
+$ 
+```
 ## Getting Started
-
-> git clone https://github.com/Dhyeythumar/Data-prediction-and-plotting.git <br />
-> cd data_prediction&plotting <br />
-> python data_prediction.py <br />
-
+```bash
+git clone https://github.com/Dhyeythumar/Data-prediction-and-plotting.git
+cd data_prediction&plotting
+python data_prediction.py
+```
 The project is running :smiley: <br />
 
 ## Create an .exe file
 
 To create a build file you need to install cx_Freeze. <br />
 **Install cx_Freeze**
-> pip install cx_Freeze <br />
-
+```bash
+pip install cx_Freeze
+```
 **Create build file**
-> cd data_prediction&plotting <br />
-> python setup.py build <br />
-
+```bash
+cd data_prediction&plotting
+python setup.py build
+```
 Successfully created a build file :package:
 
 ## License
