@@ -13,6 +13,7 @@ pip install plotly
 ```
 
 Or Install Plotly in Virtual Environment by the following instructions<br />
+
 **Create your virtualenv**
 ```bash
 $ mkdir ~/.virtualenvs
@@ -35,15 +36,16 @@ $
 ```
 ## Getting Started
 ```bash
-git clone https://github.com/Dhyeythumar/Data-prediction-and-plotting.git
-cd data_prediction&plotting
-python data_prediction.py
+$ git clone https://github.com/Dhyeythumar/Data-prediction-and-plotting.git
+$ cd data_prediction&plotting
+/data_prediction&plotting $ python data_prediction.py
 ```
 The project is running :smiley: <br />
 
 ## Create an .exe file
 
 To create a build file you need to install cx_Freeze. <br />
+
 **Install cx_Freeze**
 ```bash
 pip install cx_Freeze
