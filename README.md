@@ -1,4 +1,4 @@
-# Data-prediction-and-plotting
+# Data prediction and plotting
 
 The objective for this topic is to predict the third-semester pointers on the basis of the first and second-semester pointers values. And to create a method which can predict the near future data (one or two values) to its possible amount of accuracy by using the minimal amount of data.
 
